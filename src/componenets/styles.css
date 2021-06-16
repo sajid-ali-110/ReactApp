@@ -1,0 +1,24 @@
+/* .sajjuu{
+    position: relative;
+    left: 70%;
+
+} */
+/* .nav-buttons {
+    color: aliceblue !important;
+} */
+.nav a{
+    
+    color: aliceblue !important;
+
+}
+.nav a:hover{
+    border-bottom: 1px solid white;
+    color: skyblue !important;
+    padding: 0 10px;
+}
+@media  (max-width: 992px) {
+    .nav a:hover {
+     border-bottom: none;
+     padding: 0;
+    }
+}
